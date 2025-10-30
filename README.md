@@ -40,5 +40,4 @@ User authentication is implemented using JSON Web Tokens (JWT) to ensure data pr
 
 ---
 
-## Folder Structure
 
